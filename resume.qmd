@@ -1,87 +1,120 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Precious Mbong's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Precious Mbong
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<div id="email">
+<a href="pmbong14@gmail.com">pmbong14@gmail.com</a>
+| <a href="www.linkedin.com/in/precious-mbong">My LinkedIn page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Pursuing Bachelor of Science in Accounting at Brigham Young University - Idaho
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+International tax compliance, VBA automation, digital communications, team leadership
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Tax, Python programming, music, dancing, viola, reading, yoga
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`September 2020 - now`
+__Brigham Young University - Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Bachelor of Science in Accounting
+GPA: 3.18, Major GPA: 3.69
+Preference for Tax
 
 
 
-## Awards
+## Experience
 
-`2012`
-President, *Royal Society*, London, UK
+`January 2025 - April 2025`
+__RSM - Texas__
+_International Tax Intern_
 
-Associate, *French Academy of Science*, Paris, France
+Streamlined a client's workpaper process using VBA, improving efficiency and accuracy
 
+Assisted with international tax compliance and consulting engagements for multinational clients
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Gained experience with tax software and tools commonly used in international tax practice
 
 
-## Occupation
+`July 2023 - January 2025`
+__Brigham Young University - Idaho, Rexburg, Idaho__
+_Digital Communications Team Lead_
 
-`1600`
-__Royal Mint__, London
+Orchestrated team meetings and events logistics, fostering collaboration and morale
 
-- Warden
-- Minted coins
+Exhibited problem-solving prowess by addressing operational challenges, suggesting process enhancements, and boosting team efficiency
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Assumed leadership duties, supporting colleagues during absences for operational continuity
 
+Managed brainstorming sessions, collaborated with cross-functional teams to unify approaches, and facilitated strategic planning to overcome obstacles
+
+
+`September 2022 - July 2023`
+__Brigham Young University - Idaho, Rexburg, Idaho__
+_Chat/Email Specialist_
+
+Engaged with students and staff through chat and email platforms, providing timely and precise information
+
+Resolved technical issues, academic concerns, and administrative queries by guiding users toward effective solutions
+
+Maintained comprehensive records of interactions, ensuring accurate documentation of inquiries, resolutions, and feedback
+
+
+`October 2018 - March 2020`
+__Ibom Specialist Hospital, Uyo, Akwa Ibom, Nigeria__
+_Operating Room Assistant/Intern_
+
+Provided support in various surgical capacities, including assisting surgeons and nurses
+
+Improved patient satisfaction by updating family members on surgery progress, resulting in a 5% reduction in complaints
+
+Collaborated with anesthesiologists to monitor patients during surgery
+
+Oversaw radiologists' scheduling of imaging procedures, reducing procrastination by 8%
+
+
+`January 2014 - December 2018`
+__Beaconhill Academy International Limited, Uyo, Akwa Ibom, Nigeria__
+_Teacher and Mentor (Summer job)_
+
+Managed accounting responsibilities, including transaction oversight and financial monitoring
+
+Facilitated effective communication and issue resolution, reducing escalations by 40%
+
+Improved mathematical analysis skills with tailored training, leading to 20% grade improvement
+
+Mentored students in mental mathematics via UCMAS program, boosting confidence by 15%
+
+## Skills
+
+
+### Technical
+
+-Microsoft Office operations
+-VBA programming
+-Python programming (currently expanding proficiency)
+-Tax software and tools
+
+### Certifications
+
+QPR Certified
+
+
+### Other
+
+Pastry Techniques Mastery
 
 
 <!-- ### Footer
