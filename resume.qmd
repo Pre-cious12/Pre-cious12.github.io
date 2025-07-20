@@ -2,7 +2,7 @@
 layout: cv
 title: Precious Mbong's CV
 ---
-# Precious Mbong
+# Precious Inyang Mbong
 
 <div id="email">
 <a href="pmbong14@gmail.com">pmbong14@gmail.com</a>
